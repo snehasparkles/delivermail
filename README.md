@@ -1,4 +1,4 @@
-# delivermail
+# Delivermail
 
 `delivermail` is a simple Python utility for sending emails using the SMTP protocol. It supports sending emails with different content types (plain text, HTML, or XML) and to multiple recipients.
 
@@ -13,7 +13,7 @@
 
 Install the package using pip:
 
-```bash
+
 pip install delivermail
 Usage
 Import the package
